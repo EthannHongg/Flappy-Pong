@@ -6,5 +6,4 @@ Flappy ping pong ball rather than flappy bird with a thousand twists!
 Created using Unity, C#, and Ethan's hard work.
 
 ## Demo
-![demo](stage1.jpg | width=100)
-![demo](stage2.jpg)
+<img src="stage1.jpg" height="600"><img src="stage2.jpg" height="600">
