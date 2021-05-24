@@ -1,7 +1,7 @@
 # Flappy-Pong
 Flappy ping pong ball rather than flappy bird with a thousand twists!
 
-6 levels with changing obstacle speeds, angles, intervals, directions.
+6 levels with changing obstacle speeds, angles, intervals, directions, and settings.
 
 Created using Unity, C#, and Ethan's hard work.
 
